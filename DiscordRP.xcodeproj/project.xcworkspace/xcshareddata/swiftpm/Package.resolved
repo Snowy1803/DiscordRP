@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Socket",
+        "repositoryURL": "https://github.com/IBM-Swift/BlueSocket.git",
+        "state": {
+          "branch": null,
+          "revision": "26c8f4e4e3000421a0c97aaf0c7b5e9aa5475222",
+          "version": "0.12.94"
+        }
+      },
+      {
+        "package": "SwordRPC",
+        "repositoryURL": "https://github.com/Snowy1803/SwordRPC",
+        "state": {
+          "branch": null,
+          "revision": "7e0a2c1081e08d7a35ab566a390eae2808ce0e01",
+          "version": "0.2.3"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
